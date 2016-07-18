@@ -1,0 +1,9 @@
+
+#print("name",name) name=input("enter")
+'''name=input("enter")
+'''
+
+
+age=int(input("enter age"))
+
+print("age",age)
